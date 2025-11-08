@@ -1,0 +1,16 @@
+Making simulated observation using Nature run
+
+1. bufr_decode_sample.f90
+
+2. read_head.ncl
+
+3. bufr_encode_sample.f90
+
+
+*bufr_2015071500_MPD
+-R=1
+-time=201507150000~201507150559
+
+*bufr_2015071500_MPD_R1 : R=1
+-R=1
+-time=201507150000~201507150859

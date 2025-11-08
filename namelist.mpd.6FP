@@ -1,0 +1,8 @@
+ &iosetup
+  OBS_TYP='MPD'
+  OBS_DATE='2015071500'
+  INPUT_DIR="/glade/work/junkyung/vrfy/PECAN/DA/MPD_gen/nr_6FP/26levs"
+  INPUT_FILE="15min_intv_2.dat"
+  OUTPUT_DIR="/glade/u/home/junkyung/GSI/comGSIv3.7_EnKFv1.3/util/bufr_tools/nr_6FP"
+  OUTPUT_FILE="R2.0"
+ /

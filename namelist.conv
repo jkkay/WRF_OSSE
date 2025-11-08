@@ -1,0 +1,8 @@
+ &iosetup
+  infilename='/glade/work/junkyung/data/obs/LIUZ/20150714/gdas1.t12z.prepbufr.nr',
+  outfilename_00='V00_gdas1',
+  outfilename_m3='Vm3_gdas1',
+  outfilename_p3='Vp3_gdas1',
+  OBS_TYP='ADPUPA'
+  OBS_DATE='2015071412'
+ /
